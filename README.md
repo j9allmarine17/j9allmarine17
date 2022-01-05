@@ -39,7 +39,7 @@
 
 [website]: https://j9allmarine17.github.io
 [twitter]: https://twitter.com/j9allmarine17
-[youtube]: https://youtube.com/j9allmarine17
+[youtube]: https://youtube.com/channel/UC4KpnJzt4C_PJDMrTnBTiOg
 [linkedin]: https://linkedin.com/in/james-gariepy-4a61519a
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
