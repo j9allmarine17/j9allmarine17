@@ -1,10 +1,9 @@
 ### Hi there, I'm Jimmy - aka [j9allmarine17][website] 👋 
 
-## I'm a Husband, Father, Penetration Tester, and Student!!
+## I'm a Husband, Father, Penetration Tester/Red Teamer, and Student!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: PNPT certification, bug bounties
+- 🌱 I’m currently working towards my CRTO certification.
+- 👯 I’m looking to collaborate with other content creators.
 
 ### Connect with me:
 
