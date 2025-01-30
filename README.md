@@ -3,7 +3,7 @@
 ## I'm a husband, father, penetration tester/red teamer, and continuously learning!!
 
 - 🌱 I’m currently working towards my CRTO certification.
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other content creators, and learn new tools & techniques.
 
 ### Connect with me:
 
