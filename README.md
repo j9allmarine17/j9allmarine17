@@ -8,7 +8,6 @@
 ### Connect with me:
 
 [<img align="left" alt="j9allmarine17 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />][youtube]
-[<img align="left" alt="j9allmarine17 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/X_logo.svg" />][twitter]
 [<img align="left" alt="j9allmarine17 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 <br />
