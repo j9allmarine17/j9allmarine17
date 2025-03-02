@@ -7,9 +7,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="j9allmarine17 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="j9allmarine17 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="j9allmarine17 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me:
+[<img align="left" alt="j9allmarine17 | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_logo.png" />][youtube]
+[<img align="left" alt="j9allmarine17 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023_original.svg" />][twitter]
+[<img align="left" alt="j9allmarine17 | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 
 <br />
 
