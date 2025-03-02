@@ -1,6 +1,6 @@
 ### Hi there, I'm Jimmy - aka [j9allmarine17][website] 👋 
 
-## I'm a husband, father, penetration tester/red teamer, and continuously learning!!
+## I'm a husband, father, cybersecurity professional, aspiring penetration tester/red teamer, and continuously learning!!
 
 - 🌱 I’m currently working towards my CRTO certification.
 - 👯 I’m looking to collaborate with other content creators, and learn new tools & techniques.
